@@ -1,0 +1,12 @@
+google-cloud-aiplatform==1.*
+google-cloud-translate==3.*
+google-cloud-speech==2.*
+google-cloud-secret-manager==2.*
+firebase-admin==6.*
+googlemaps==4.*
+fastapi==0.111.*
+uvicorn[standard]==0.30.*
+pydantic==2.*
+pydantic-settings==2.*
+tenacity==8.*
+httpx==0.*
